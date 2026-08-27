@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "FGPpKCP13OBw8sJGmr+R1aoKIrJoP2Y4TdnqVJh/uWc=",
+  "Source": "EmployeeDataExporter",
+  "BasePath": "_content/EmployeeDataExporter",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
